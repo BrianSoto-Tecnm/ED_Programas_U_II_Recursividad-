@@ -1,4 +1,7 @@
-﻿class Program
+/*Suma de numero mediante recursividad indirecta: calcular la suma de los numeros desde 
+1 hasta n utlizando dos metodos que se llamen mutuamente*/
+
+class Program
 {
     static int SumaA(int n)
     {
