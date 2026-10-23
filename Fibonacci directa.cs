@@ -1,4 +1,6 @@
-﻿class Program
+// Programa que termine el valor de una posición en una serie Fibonacci
+
+class Program
 
 {
     static int Fibonacci(int n)
