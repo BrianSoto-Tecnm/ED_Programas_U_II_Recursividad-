@@ -1,4 +1,6 @@
-﻿class Program
+// Resultado de llamarse a si mismo usando el número sin ese dígito
+
+class Program
 {
     static int SumarDigitos(int n)
     {
