@@ -1,4 +1,6 @@
-﻿class Program
+// Calcular una potencia entera no negativa utilizando recursividad
+
+class Program
 {
     static int Potencia(int n, int b)
     {
