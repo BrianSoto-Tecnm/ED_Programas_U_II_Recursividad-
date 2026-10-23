@@ -1,4 +1,5 @@
-﻿
+// Calcular el factorial de un número no negativo usando recursividad.
+
 class Program
 {
     static long Factorial(int n)
